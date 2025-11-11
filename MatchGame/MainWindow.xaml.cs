@@ -98,6 +98,7 @@ namespace MatchGame
             else
             {
                 lastTextBlockClicked.Visibility = Visibility.Visible;
+
                 findingMatch = false;
             }
         }
